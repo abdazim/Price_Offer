@@ -1,0 +1,168 @@
+===============================================Srart============================================
+Data Time:2/20/2018 2:45:41 PM
+--------------
+Event Name:login - Enter button-Exception Object reference not set to an instance of an object.
+---------------
+Control Name:   at Products3._0.Form1..ctor() in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\Form1.cs:line 21
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 178
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/20/2018 2:45:47 PM
+--------------
+Event Name:login - Enter button-Exception Object reference not set to an instance of an object.
+---------------
+Control Name:   at Products3._0.Form1..ctor() in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\Form1.cs:line 21
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 178
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/20/2018 9:25:53 PM
+--------------
+Event Name:login - Enter button-Exception Starting a second message loop on a single thread is not a valid operation. Use Form.ShowDialog instead.
+---------------
+Control Name:   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 180
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/20/2018 9:26:42 PM
+--------------
+Event Name:login - Enter button-Exception Starting a second message loop on a single thread is not a valid operation. Use Form.ShowDialog instead.
+---------------
+Control Name:   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 180
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/20/2018 9:27:46 PM
+--------------
+Event Name:login - Enter button-Exception Starting a second message loop on a single thread is not a valid operation. Use Form.ShowDialog instead.
+---------------
+Control Name:   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 180
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:17 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:18 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:21 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:22 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:22 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:22 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:24 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
+===============================================Srart============================================
+Data Time:2/21/2018 11:02:24 AM
+--------------
+Event Name:login - Enter button-Exception Top-level control cannot be added to a control.
+---------------
+Control Name:   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Form.ControlCollection.Add(Control value)
+   at System.Windows.Forms.Control.set_ParentInternal(Control value)
+   at System.Windows.Forms.Form.set_ParentInternal(Control value)
+   at System.Windows.Forms.Control.set_Parent(Control value)
+   at Products3._0.login.button1_Click(Object sender, EventArgs e) in C:\Users\ff3\Documents\Visual Studio 2015\Projects\Products3.0\Products3.0\login.cs:line 186
+---------------
+Form Name:login
+===============================================End==============================================
